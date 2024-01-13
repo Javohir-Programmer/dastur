@@ -6,3 +6,11 @@ h1{
     font-size: 30px;
     color: blue;
 }
+p{
+    color: green;
+    font-size: 20px;
+}
+h3{
+    text-align: center;
+    color: white;
+}
